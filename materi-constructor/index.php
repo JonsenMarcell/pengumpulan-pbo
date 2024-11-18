@@ -6,6 +6,7 @@
     <title>Belajar Konstruktor</title>
     <link rel ="stylesheet" href="style.css"/>  
 </head>
+
 <body>
     <h1>Belajar Constructor</h1>
     <?php
